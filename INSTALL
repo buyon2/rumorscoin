@@ -1,0 +1,4 @@
+Building rumors
+See doc/readme-qt.rst for instructions on building rumors QT.
+
+See doc/build-*.txt for instructions on building rumorsd.
